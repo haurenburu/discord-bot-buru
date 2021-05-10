@@ -1,0 +1,9 @@
+{
+  "name": "discord-bot-buru",
+  "version": "1.0.0",
+  "description": "Discord bot using discordjs and typescript",
+  "main": "index.js",
+  "repository": "https://www.github.com/haurenburu/discord-bot-buru",
+  "author": "haurenburu <haurenburu@protonmail.com>",
+  "license": "MIT"
+}
