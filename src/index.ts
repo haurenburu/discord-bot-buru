@@ -1,0 +1,1 @@
+console.log("To the edge of the universe and back, endure and survive");
